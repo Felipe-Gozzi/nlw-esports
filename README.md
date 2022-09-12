@@ -1,2 +1,4 @@
 # nlw-esports
-Repositório referente ao Evento NLW da plataforma Rockeatseat
+
+Repositório referente ao Evento NLW da plataforma Rockeatseat.
+
