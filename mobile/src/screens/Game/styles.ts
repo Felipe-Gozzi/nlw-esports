@@ -1,16 +1,16 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    alignItems: 'center',
+    alignItems: "center",
   },
   header: {
-    width: '100%',
-    flexDirection: 'row',
-    alignItems: 'center',
+    width: "100%",
+    flexDirection: "row",
+    alignItems: "center",
     paddingHorizontal: 32,
-    justifyContent: 'space-between',
+    justifyContent: "space-between",
   },
   logo: {
     width: 72,
@@ -25,6 +25,13 @@ export const styles = StyleSheet.create({
     height: 160,
     borderRadius: 8,
     marginTop: 32,
-
-  }
+  },
+  containerList: {
+    width: "100%",
+  },
+  contentList: {
+    paddingLeft: 32,
+    paddingRight: 64,
+    alignItems: "flex-start",
+  },
 });
